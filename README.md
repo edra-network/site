@@ -1,2 +1,2 @@
 # site
-a landing page for EDRA
+a landing page for EDRA.network
